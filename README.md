@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/H-Keshk/Social-links-Profile)
+- Live Site URL: (https://h-keshk.github.io/Social-links-Profile/)
 
 ## My process
 
